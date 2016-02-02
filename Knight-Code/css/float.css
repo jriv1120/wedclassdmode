@@ -1,0 +1,36 @@
+header {
+	background-color: #ccc;
+	padding: 25px;
+	text-align: center;
+	font-size: 50px;
+
+}
+.Div { 
+	background-color:#666;
+	padding:24px;
+	text-align: center;
+	width: 33%;
+	float: left;
+	display: inline-block;
+}
+
+.JI {
+	background-color:#888;
+	padding: 24px;
+	text-align: center;
+	width: 33%;
+	float: center;
+
+.Rutgers {
+	background-color: #666;
+
+}
+
+}
+
+.Whitebox {
+	background-color: #fff
+	
+
+}
+
